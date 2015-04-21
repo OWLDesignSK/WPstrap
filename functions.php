@@ -5,3 +5,5 @@
  * Date: 20. 4. 2015
  * Time: 23:55
  */
+
+add_theme_support( 'menus' );

@@ -6,4 +6,5 @@
  * Time: 23:55
  */
 
+//added support for menus.
 add_theme_support( 'menus' );
